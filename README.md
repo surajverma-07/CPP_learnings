@@ -1,0 +1,1 @@
+ all my learnings of cpp from functions to object oriented programming friends function pointer all the property of oops like inheritence polymorphysm virtual function Templates stl vector  recursion ...etc. are added in once to store the code in cloud show that i can access it any and others were also take reference from there when they stuck in cpp 
